@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 11, Monday
+My intentions for the 100 days forward
+- Do my project on Indonesian Rhythm Dictionary
+- Upload some tutorial videos
+- Get some freelance gigs (or non-preferably full-time gigs)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: November 13, Wednesday
+Today:
+- I learn about Puppeteer from https://youtube.com/watch?v=Bo6n7rrkA60&list=PLuJJZ-W1NwdqgvE0D-1SMS7EpWIC5cKqu&index=4
+- I also build a small nodejs that scrapes prodcts data from Tokopedia and store the data inside a CSV file (GitHub coming soon....)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Tomorrow:
+- I intend to continue scrape the Tokopedia website, this time handling the pagination instead of only scraping on page
+- I also plan to learn puppeteer-cluster and immediately implement it to KBBI website
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
