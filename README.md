@@ -3,7 +3,7 @@
 ## Contents
 
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md) <<- Currently Unavailable, see nelow for twitter log
+- [Log - click here to see my progress](log.md)
 - [Log - Twitter](https://x.com/alex_productive)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
