@@ -15,3 +15,14 @@ Tomorrow:
 - I intend to continue scrape the Tokopedia website, this time handling the pagination instead of only scraping on page
 - I also plan to learn puppeteer-cluster and immediately implement it to KBBI website
 
+### Day 2: November 14, Thursday
+Today:
+- Implemented puppeteer, puppeteer-cluster on KBBI page
+- Watched some part on generating leads by scraping Google Maps that got me curious https://youtu.be/Yj2fg9edRcs?feature=shared
+- Found out the way I select element is unreliable
+
+Tomorrow:
+- Continue on processing the KBBI data from https://github.com/rizaumami/kbbi
+- Integrate it to the puppeteer project that I tested
+- Obtain all the lema and necessary data
+- Start working on the Frontend of the project
