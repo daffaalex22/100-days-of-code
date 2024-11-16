@@ -26,3 +26,17 @@ Tomorrow:
 - Integrate it to the puppeteer project that I tested
 - Obtain all the lema and necessary data
 - Start working on the Frontend of the project
+
+### Day 3: November 15, Friday
+Today: 
+- I implemented the puppeteer cluster on KBBI database that I got
+- <mark style="background-color: #FF0000">Got my KBBI account banned:')</mark>
+
+Tomorrow: 
+- Try learning and implementing proxy in my puppeteer
+- Try lengthen the timeout so I got undetected as a bot
+- Watch and implement these videos
+  - https://youtu.be/JjQ5hXhxWMU?feature=shared
+  - https://youtu.be/Ks7qtKi94K8?feature=shared
+  - https://youtu.be/Q5qkGq_Ustc?feature=shared
+  - https://youtu.be/vf6ZcjCBUKo?feature=shared
