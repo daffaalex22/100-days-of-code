@@ -40,3 +40,24 @@ Tomorrow:
   - https://youtu.be/Ks7qtKi94K8?feature=shared
   - https://youtu.be/Q5qkGq_Ustc?feature=shared
   - https://youtu.be/vf6ZcjCBUKo?feature=shared
+
+### Day 4: November 16, Saturday
+Today:
+- I watched some videos about proxies and tips on web scraping
+
+### Day 5: November 17, Sunday
+Today:
+- I made logo for my app and recreate my frontend using Vite
+
+### Day 6: November 18, Monday
+Today:
+- I create the home page
+- Start the Search Page
+- Implement the shadcn-ui for my frontend
+
+Tomorrow:
+- Continue the search page
+- Link search with home page upon click
+- Design the detail page
+- Implement the detail page
+
