@@ -61,3 +61,12 @@ Tomorrow:
 - Design the detail page
 - Implement the detail page
 
+### Day 7: November 19, Tuesday
+Today:
+- Finished the search page UI
+- I init the details page
+- Design the details page
+
+Tomorrow:
+- Finish the details page without too much complexity, just lay out the words
+
