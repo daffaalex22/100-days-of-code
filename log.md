@@ -70,3 +70,15 @@ Today:
 Tomorrow:
 - Finish the details page without too much complexity, just lay out the words
 
+### Day 8: November 20, Wednesday
+- I finished the UI for the details page
+- I finished the logic for the whole page and used dummy data
+
+### Day 9: November 21, Thursday
+- I deployed the App with dummy data to vercel
+
+Tomorrow is getting the actual data
+- Learn about proxies again
+- Implement proxies on my kbbi scraper
+- Try other things if it's not feasible to do scraping with proxies
+
