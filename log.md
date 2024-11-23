@@ -82,3 +82,18 @@ Tomorrow is getting the actual data
 - Implement proxies on my kbbi scraper
 - Try other things if it's not feasible to do scraping with proxies
 
+### Day 10: November 22, Friday
+- I felt sick so I skip today
+
+### Day 10: November 23, Saturday
+- I still feel scared to do rotating proxies on KBBI
+- I updated the KBBI entries to be processed by using data from https://github.com/damzaky/kumpulan-kata-bahasa-indonesia-KBBI instead of from https://github.com/rizaumami/kbbi (this repo is missig the J entries)
+- I started following Chrome tutorial about extension
+
+#### Intention
+- I want to create an extension of "Simplified version of X.com"
+
+#### Next steps
+- Gradually obtain data from KBBI
+- Finish the Chrome tutorial for basic sxtension dev (2-3 days needed)
+- Start building my first extension (2-3 days)
