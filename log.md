@@ -97,3 +97,10 @@ Tomorrow is getting the actual data
 - Gradually obtain data from KBBI
 - Finish the Chrome tutorial for basic sxtension dev (2-3 days needed)
 - Start building my first extension (2-3 days)
+  
+#### Day 11 - Day 22: November 24 - December 9
+A lot of things happened and I kept forgetting to log my daily progress. I skipped around 4 days due to sick, etc.
+These are my progress so far:
+- First extension for x.com is working, working on UI with React and Vite
+- Thinking about using [`kbbi.web.id`](https://kbbi.web.id/) to obtain some of the syllable segments (not all entries have syllable segmentation data)
+- Thinking about developing manual algo to obtain the syllable segments refer to [`EYD`](https://ejaan.kemdikbud.go.id/eyd/penulisan-kata/pemenggalan-kata/)
