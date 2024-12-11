@@ -104,3 +104,10 @@ These are my progress so far:
 - First extension for x.com is working, working on UI with React and Vite
 - Thinking about using [`kbbi.web.id`](https://kbbi.web.id/) to obtain some of the syllable segments (not all entries have syllable segmentation data)
 - Thinking about developing manual algo to obtain the syllable segments refer to [`EYD`](https://ejaan.kemdikbud.go.id/eyd/penulisan-kata/pemenggalan-kata/)
+
+#### Day 23 - Day 24: December 10 - December 11
+- I succesfully did the syllable segmentation manually https://gist.github.com/daffaalex22/8dcb379e338a383c8b316beada33a98f
+- Processing the segment result and importing the to Firebase Firestore
+- Got confused between using Firebase's Firestore/Firebase's Realtime Database bcs I thought Firestore usage limit might be too low
+- Planning to just use both of them
+- I exceeded the Firestore Usage limit (102%), might need to input my credit card
