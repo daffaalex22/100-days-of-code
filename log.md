@@ -111,3 +111,11 @@ These are my progress so far:
 - Got confused between using Firebase's Firestore/Firebase's Realtime Database bcs I thought Firestore usage limit might be too low
 - Planning to just use both of them
 - I exceeded the Firestore Usage limit (102%), might need to input my credit card
+
+#### Day 25, December 13
+- I got sick yesterday til today.
+- Decided to just still import the Rima data to Realtime Database. Succesfully imported the whole data.
+
+#### Day 26, December 16
+- Got horribly sick again for 2 days
+- Continue importing to Firestore (as daily limit is 20k)
